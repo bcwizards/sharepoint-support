@@ -29,5 +29,5 @@ When an issue is resolved internally, it will be closed here with a reference to
 
 ---
 
-💙 Thanks for helping us improve MyProject!
+💙 Thanks for helping us improve SharePoint Connector!
 
