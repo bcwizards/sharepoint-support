@@ -7,6 +7,12 @@ Since the main project repository is private, this is the place where you can:
 - Report **bugs** 🐛  
 - Suggest **new features** 💡  
 - Ask **questions** ❓  
+- find **guides** 📘
+---
+## 📘 Documentation
+
+Here you will find guides and how-tos for setting up and using the app.
+📄 [SharePoint App Docs →](../../wiki)
 
 ---
 
